@@ -43,7 +43,7 @@
             </div>
 
             <div class="footer">
-                &copy; 2021, Todos los Derechos Reservados - | Perfumeria MuseeDuParfum |
+              &copy; 2021, Todos los Derechos Reservados - | TIENDAX |
             </div>
             {{foreach js_ref}}
                 <script src="{{uri}}"></script>
